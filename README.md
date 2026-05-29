@@ -1,5 +1,5 @@
 # Normalising-Flows-Part-III-Project
-This repository contains the codes and supplementary files for the Part III project in normalising flows.
+This repository contains the codes and supplementary files for the Part III project in normalising flows, for the BGN 3747B.
 
 This contains the model and analysis codes for the part III Project on Normalising Flows for Particle Detector Acceptance Modelling. There are also optuna run CSV outputs.
 
